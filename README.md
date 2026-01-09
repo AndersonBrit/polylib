@@ -1,4 +1,4 @@
-# Polylib
+<h1 align = center> Polylib </h1>
 
 Biblioteca em Python para manipulação de polígonos e objetos relacionados, utilizando programação orientada a objetos (POO). Este projeto serve como exemplo de estudo e exercício prático de POO em Python.
 
