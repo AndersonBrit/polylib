@@ -1,5 +1,29 @@
 <h1 align = center> Polylib </h1>
 
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/status-complete-brightgreen" alt="Status">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/language-C-blue" alt="C">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/language-C%2B%2B-blue" alt="C++">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/language-Python-yellow" alt="Python">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/language-C%23-purple" alt="C#">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/type-multi--language--library-informational" alt="Multi-language Library">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/context-academic-orange" alt="Academic Project">
+  </a>
+</p>
+
 Biblioteca em Python para manipulação de polígonos e objetos relacionados, utilizando programação orientada a objetos (POO). Este projeto serve como exemplo de estudo e exercício prático de POO em Python.
 
 ## 🔹 Funcionalidades
